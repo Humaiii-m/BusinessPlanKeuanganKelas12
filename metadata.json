@@ -1,0 +1,6 @@
+{
+  "name": "Media Belajar Business Plan & Keuangan",
+  "description": "Media pembelajaran interaktif Business Plan dan Perencanaan Keuangan untuk siswa kelas 12 dengan review BMC, materi konsep, quiz mandiri, kalkulator simulasi, dan generator hasil tugas siap kumpul Google Classroom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
